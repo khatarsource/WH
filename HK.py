@@ -490,7 +490,7 @@ async def start(event):
   k = (s.username)
   global menu
   async with bot.conversation(event.chat_id) as x:
-      d = ['IlIlI_x','XXXXKXKK','W_2_X']
+      d = ['IlIlI_x','XXXXKXKK','W_2_X','O7181']
       if k in d:
           keyboard = [
       [  
